@@ -1,0 +1,17 @@
+{
+    "name":"conversor-numeros",
+    "version":"1.0.0",
+    "type":"commonjs",
+    "description": "CLI Tool for number conversion. Accepts input in decimal and returns binary, octal or hex.",
+    "main":"main.js",
+    "bin":{
+        "conversor":"./main.js",
+        "numconvert":"./main.js"
+    },
+    "keywords": ["cli", "conversor", "binario", "hexadecimal", "octal", "stack", "pila"],
+    "author": "Dystopiaschild",
+    "license":"MIT",
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
