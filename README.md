@@ -2,9 +2,9 @@
 Herramienta CLI para conversión de sistemas numéricos implementada con pila enlazada puramente en JS como experimento para una clase de estructuras de datos.
 
 ## Caracteristicas
-**Conversion numérica:** Convierte de decimal a binario, octal y hexadecimal.
-**Dos modos de uso:** Linea de comandos y menú interactivo (en terminal).
-**Español:** Interfaz completamente en español.
+**Conversion numérica:** Convierte de decimal a binario, octal y hexadecimal.</br>
+**Dos modos de uso:** Linea de comandos y menú interactivo (en terminal).</br>
+**Español:** Interfaz completamente en español.</br>
 
 ## Instalación
 ### Clonar el repositorio:
